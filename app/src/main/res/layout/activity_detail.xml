@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activities.detail.DetailActivity"
+        android:background="@color/blue_400">
+
+        <ImageView
+            android:id="@+id/profile"
+            android:layout_width="143dp"
+            android:layout_height="129dp"
+            android:layout_marginTop="48dp"
+            android:layout_marginBottom="75dp"
+            app:layout_constraintBottom_toTopOf="@+id/name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.134"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/nickname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:autoSizeMaxTextSize="30dp"
+            android:autoSizeMinTextSize="15dp"
+            android:autoSizeTextType="uniform"
+            android:textAlignment="center"
+            android:textColor="@color/design_default_color_secondary"
+            android:textSize="25dp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/name"
+            tools:text="Heisenberg" />
+
+        <TextView
+            android:id="@+id/birthday"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="88dp"
+            android:text="09-07-1958"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+
+            android:textStyle="normal"
+            app:layout_constraintBottom_toTopOf="@+id/imageView4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/portrayed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="128dp"
+            android:autoSizeTextType="uniform"
+            android:text="Bryan Cranston"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="36dp"
+            android:layout_height="47dp"
+            android:layout_marginStart="85dp"
+            android:layout_marginEnd="111dp"
+            android:layout_marginBottom="63dp"
+            android:src="@drawable/ic_pressumeddead"
+            app:layout_constraintBottom_toTopOf="@+id/name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/profile"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="92dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="26dp"
+            android:letterSpacing=".12"
+            android:text="Presumed Dead"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="italic|bold"
+            app:layout_constraintBottom_toTopOf="@+id/imageView2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/profile"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="112dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="32dp"
+            android:autoSizeMaxTextSize="30dp"
+            android:autoSizeMinTextSize="15dp"
+            android:autoSizeTextType="uniform"
+            android:letterSpacing=".12"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/nickname"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Walter White" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="328dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/nickname"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/ic_birthday" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="78dp"
+            android:layout_marginEnd="328dp"
+            android:layout_marginBottom="109dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView3"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/ic_portrayed" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

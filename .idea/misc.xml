@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/back.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/back_detail.xml" value="0.2625" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/back_img_settings.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/back_recycler.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/bottonsumbit.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_alive.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_baseline_dark_mode_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_baseline_filter_center_focus_24.xml" value="0.228125" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_baseline_translate_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_birthday.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_carga.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_characters.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_deceased.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_name.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_occupation.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_phrase.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_portrayed.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_presumeddead.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_setting.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_unknow.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/drawable/ic_unknown.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/activity_firstmain.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/activity_menu.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/character_list_item.xml" value="0.2" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/fragment_characters.xml" value="0.11980749746707194" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/fragment_phrase.xml" value="0.264" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/layout/fragment_settings.xml" value="0.4" />
+        <entry key="..\:/Users/adeli/OneDrive/Documentos/BreakingBadAppNative/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
